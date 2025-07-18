@@ -25,4 +25,4 @@ Predicts which customers will cancel service using machine learning. Identifies 
    jupyter notebook notebooks/churn_analysis.ipynb
    ```
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/customer-churn-prediction/blob/main/notebooks/churn_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tiwaloluwafasetire/customer-churn-prediction/blob/main/notebooks/churn_analysis.ipynb)
